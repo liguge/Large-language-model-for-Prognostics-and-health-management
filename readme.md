@@ -283,6 +283,6 @@
 
 
 
-**47.ChatGPT-like large-scale foundation models for prognostics and health management A survey and roadmaps**
+**47. ChatGPT-like large-scale foundation models for prognostics and health management A survey and roadmaps**
 
 **面向预测与健康管理的类ChatGPT大规模基础模型：综述与展望**
