@@ -61,4 +61,4 @@
 | 44   | <font color= #0000FF>An outline of Prognostics and health management Large Model: Concepts, Paradigms, and challenges</font> | 预测与健康管理大模型概述：概念、范式与挑战                   |
 | 45   | Channel attention residual transfer learning with LLM fine-tuning for few-shot fault diagnosis in autonomous underwater vehicle propellers | 面向自主水下航行器螺旋桨小样本故障诊断的通道注意力残差迁移学习与大型语言模型微调方法 |
 | 46   | An End-to-End General Language Model (GLM)-4-Based Milling Cutter Fault Diagnosis Framework for Intelligent Manufacturing | 基于端到端通用语言模型（GLM） - 4 的智能制造铣刀故障诊断框架 |
-| 47   | <font color= #0000FF>ChatGPT-like large-scale foundation models for prognostics and health management A survey and roadmaps</font> | 面向预测与健康管理的类ChatGPT大规模基础模型：综述与路线图    |
+| 47   | <font color="red">ChatGPT-like large-scale foundation models for prognostics and health management A survey and roadmaps</font> | 面向预测与健康管理的类ChatGPT大规模基础模型：综述与路线图    |
