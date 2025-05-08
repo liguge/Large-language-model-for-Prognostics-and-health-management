@@ -1,4 +1,6 @@
-Large language model for Prognostics and health management
+# Large language model for Prognostics and health management
+
+> 用于预测性维护与健康管理的大型语言模型
 
 ## 创新点角度
 
