@@ -57,7 +57,7 @@
 | 40   | BearLLM: A Prior Knowledge-Enhanced Bearing Health Management Framework with Unified Vibration Signal Representation | BearLLM：基于先验知识增强的轴承健康管理框架与统一振动信号表示 |
 | 41   | FaultExplainer Leveraging large language models for interpretable fault detection and diagnosis | 故障解释器：利用大语言模型实现可解释的故障检测与诊断         |
 | 42   | The Interpretable Reasoning and Intelligent Decision-Making Based on Event Knowledge Graph With LLMs in Fault Diagnosis Scenarios | 基于事件知识图谱与大语言模型的可解释推理与智能决策在故障诊断场景中的应用 |
-| 43   | 面向机械设备通用健康管理的智能运维大模型}}$ | 面向机械设备通用健康管理的智能运维大模型                     |
+| 43   | 面向机械设备通用健康管理的智能运维大模型 | 面向机械设备通用健康管理的智能运维大模型                     |
 | 44   | An outline of Prognostics and health management Large Model: Concepts, Paradigms, and challenges | 预测与健康管理大模型概述：概念、范式与挑战                   |
 | 45   | Channel attention residual transfer learning with LLM fine-tuning for few-shot fault diagnosis in autonomous underwater vehicle propellers | 面向自主水下航行器螺旋桨小样本故障诊断的通道注意力残差迁移学习与大型语言模型微调方法 |
 | 46   | An End-to-End General Language Model (GLM)-4-Based Milling Cutter Fault Diagnosis Framework for Intelligent Manufacturing | 基于端到端通用语言模型（GLM） - 4 的智能制造铣刀故障诊断框架 |
