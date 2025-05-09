@@ -1,6 +1,6 @@
 # Large language model for Prognostics and health management
 
-> 用于预测性维护与健康管理的大型语言模型
+> 用于预测性维护与健康管理的大型语言模型；故障诊断大模型，剩余使用寿命预测大模型
 
 ## 创新点角度
 
