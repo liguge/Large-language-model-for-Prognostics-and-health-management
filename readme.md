@@ -1,6 +1,6 @@
 # Large language model for Prognostics and health management
 
-> 用于预测性维护与健康管理的大型语言模型；故障诊断大模型，剩余使用寿命预测大模型
+> 用于预测性维护与健康管理的大型语言模型
 
 ## 创新点角度
 
@@ -15,7 +15,7 @@
 
 | 序号 | 英文标题                                                     | 中文标题                                                     |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 1    | Integrating LLMs for Explainable Fault Diagnosis in Complex Systems | 大语言模型在复杂系统中的可解释故障诊断集成                   |
+| 1    | Integrating LLMs for Explainable Fault Diagnosis in Complex Systems | ~大语言模型在复杂系统中的可解释故障诊断集成                  |
 | 2    | Joint Knowledge Graph and Large Language Model for Fault Diagnosis and Its Application in Aviation Assembly | 联合知识图谱与大语言模型的故障诊断及其在航空装配中的应用     |
 | 3    | Joint KEmpirical study on fine-tuning pre-trained large language models for fault diagnosis of complex systems | 大语言模型微调在复杂系统故障诊断中的实证研究                 |
 | 4    | Large-Scale Visual Language Model Boosted by Contrast Domain Adaptation for Intelligent Industrial Visual Monitoring | 基于对比域适应的大规模视觉语言模型用于智能工业视觉监控       |
@@ -62,3 +62,56 @@
 | 45   | Channel attention residual transfer learning with LLM fine-tuning for few-shot fault diagnosis in autonomous underwater vehicle propellers | 面向自主水下航行器螺旋桨小样本故障诊断的通道注意力残差迁移学习与大型语言模型微调方法 |
 | 46   | An End-to-End General Language Model (GLM)-4-Based Milling Cutter Fault Diagnosis Framework for Intelligent Manufacturing | 基于端到端通用语言模型（GLM） - 4 的智能制造铣刀故障诊断框架 |
 | 47   | ✅ChatGPT-like large-scale foundation models for prognostics and health management A survey and roadmaps | 面向预测与健康管理的类ChatGPT大规模基础模型：综述与路线图    |
+| 48   | 面向旋转机械装备的智能故障诊断通用基础模型研究               | 面向旋转机械装备的智能故障诊断通用基础模型研究               |
+| 49   | A knowledge-graph enhanced large language model-based fault diagnostic reasoning and maintenance decision support pipeline towards industry 5.0 | 面向工业5.0的知识图谱增强型大语言模型故障诊断推理与维护决策支持流程 |
+| 50   | ✅A survey on potentials, pathways and challenges of large language models in new-generation intelligent manufacturing | 新一代智能制造中大型语言模型的潜力、路径与挑战研究调查       |
+| 51   | BearingFM Towards a foundation model for bearing fault diagnosis by domain knowledge and contrastive learning | ~面向轴承故障诊断的基础模型：基于领域知识与对比学习方法      |
+| 52   | Brain-like Cognition-Driven Model Factory for IIoT Fault Diagnosis by Combining LLMs With Small Models | 结合大语言模型与小模型的类脑认知驱动型工业互联网故障诊断模型工厂 |
+| 53   | CausalKGPT Industrial structure causal knowledge-enhanced large language model for cause analysis of quality problems in aerospace product manufacturing | 面向航空航天产品制造质量问题因果分析的产业结构因果知识增强大语言模型 |
+| 54   | Empirical study on fine-tuning pre-trained large language models for fault diagnosis of complex systems | 针对复杂系统故障诊断的预训练大语言模型微调实证研究           |
+| 55   | Empowering digital twins with large language models for global temporal feature learning | 利用大语言模型为数字孪生赋能，以实现全球时序特征学习         |
+| 56   | Foundational Models for Fault Diagnosis of Electrical Motors | ~电机故障诊断的基础模型                                      |
+| 57   | ✅Generative artificial intelligence and data augmentation for prognostic and health management Taxonomy, progress, and prospects | 生成式人工智能与数据增强在预测性健康管理中的应用：分类体系、研究进展与前景展望 |
+| 58   | How Can Large Language Models Help Humans in Design And Manufacturing | 大型语言模型如何助力人类的设计与制造                         |
+| 59   | Intelligent Fault Diagnosis for CNC Through the Integration of Large Language Models and Domain Knowledge Graphs | 通过大语言模型与领域知识图谱的融合实现数控机床的智能故障诊断 |
+| 60   | ✅Large scale foundation models for intelligent manufacturing applications a survey | 面向智能制造应用的大规模基础模型综述                         |
+| 651  | Multi large language model collaboration framework for few-shot link prediction in evolutionary fault diagnosis event graphs | 用于演化故障诊断事件图小样本链接预测的多大型语言模型协作框架 |
+| 62   | Running Gear Global Composite Fault Diagnosis Based on Large Model | 基于大模型的跑步装备全局复合故障诊断                         |
+| 63   | UniFault A Fault Diagnosis Foundation Model from Bearing Data | UniFault: 基于轴承数据的故障诊断基础模型                     |
+| 64   | Bridging the Gap LLM-Powered Transfer Learning for Log Anomaly Detection in New Software Systems | （日志异常检测）基于大语言模型的跨系统日志异常检测迁移学习方法 |
+| 65   | Evaluation and Improvement of Fault Detection for Large Language Models | （软件代码）大型语言模型故障检测的评估与改进                 |
+| 66   | Large Language Models for Test-Free Fault Localization       | （软件代码故障定位）无需测试的大语言模型用于故障定位         |
+| 67   | Large Language Models in Fault Localisation                  | （软件代码故障定位）大型语言模型在故障定位中的应用           |
+| 68   | A Survey on Intelligent Network Operations and Performance Optimization Based on Large Language Models | （智能网络优化）基于大语言模型的智能网络运维与性能优化研究综述 |
+| 69   | ✅Towards Explainable and Interpretable Multimodal Large Language Models A Comprehensive Survey | ~面向可解释与可解读的多模态大语言模型：一项全面综述          |
+| 70   |                                                              |                                                              |
+| 71   |                                                              |                                                              |
+| 72   |                                                              |                                                              |
+| 73   |                                                              |                                                              |
+| 74   |                                                              |                                                              |
+| 75   |                                                              |                                                              |
+| 76   |                                                              |                                                              |
+| 77   |                                                              |                                                              |
+| 78   |                                                              |                                                              |
+| 79   |                                                              |                                                              |
+| 80   |                                                              |                                                              |
+| 81   |                                                              |                                                              |
+| 82   |                                                              |                                                              |
+| 83   |                                                              |                                                              |
+| 84   |                                                              |                                                              |
+| 85   |                                                              |                                                              |
+| 86   |                                                              |                                                              |
+| 87   |                                                              |                                                              |
+| 88   |                                                              |                                                              |
+| 89   |                                                              |                                                              |
+| 90   |                                                              |                                                              |
+| 91   |                                                              |                                                              |
+| 92   |                                                              |                                                              |
+| 93   |                                                              |                                                              |
+| 94   |                                                              |                                                              |
+| 95   |                                                              |                                                              |
+| 96   |                                                              |                                                              |
+| 97   |                                                              |                                                              |
+| 98   |                                                              |                                                              |
+| 99   |                                                              |                                                              |
+| 100  |                                                              |                                                              |
