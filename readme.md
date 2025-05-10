@@ -9,7 +9,8 @@
 3. **LLMs整合到一个系统，解决其幻觉问题。**
 4. **馈入大模型的数据集，筛选扩充有意义的数据，构建语料库。**
 5. **多模态语料库。**
-6. **大模型作为assistant。（辅助之前算法的诊断，主要用作特征提取）**
+6. **大模型作为assistant/agent。（辅助之前算法的诊断）**
+7. **Retrieval-Augmented Generation**
 
 ## 论文整理
 
@@ -64,7 +65,7 @@
 47   |Intelligent Fault Diagnosis for CNC Through the Integration of Large Language Models and Domain Knowledge Graphs |通过大语言模型与领域知识图谱的融合实现数控机床的智能故障诊断 |2025     |Engineering                                                  
 48   |✅A survey on potentials, pathways and challenges of large language models in new-generation intelligent manufacturing |新一代智能制造中大型语言模型的潜力、路径与挑战研究调查       |2025     |Robotics and Computer-Integrated Manufacturing               
 49   |An End-to-End General Language Model (GLM)-4-Based Milling Cutter Fault Diagnosis Framework for Intelligent Manufacturing |基于端到端通用语言模型（GLM） - 4 的智能制造铣刀故障诊断框架 |2025     |Sensors                                                      
-50   |面向旋转机械装备的智能故障诊断通用基础模型研究               |面向旋转机械装备的智能故障诊断通用基础模型研究               |2025     |西安交通大学学报                                             
+50   |Research on General Foundation Model of Intelligent Fault Diagnosis for Rotating Machines               |面向旋转机械装备的智能故障诊断通用基础模型研究               |2025     |西安交通大学学报                                             
 51   |AdditiveLLM: Large Language Models Predict Defects in Additive Manufacturing |AdditiveLLM：大语言模型预测增材制造中的缺陷                  |2025     |ArXiv                                                        
 52   |FaultGPT: Industrial Fault Diagnosis Question Answering System by Vision Language Models |FaultGPT：基于视觉语言模型的工业故障诊断问答系统             |2025     |ArXiv                                                        
 53   |FD-LLM: Large language model for fault diagnosis of complex equipment |FD-LLM：用于复杂设备故障诊断的大语言模型                     |2025     |Advanced Engineering Informatics                             
@@ -77,7 +78,7 @@
 60   |Personalizing Vision-Language Models With Hybrid Prompts for Zero-Shot Anomaly Detection |利用混合提示个性化视觉语言模型用于零样本异常检测             |2025     |IEEE Transactions on Cybernetics                             
 61   |BearLLM: A Prior Knowledge-Enhanced Bearing Health Management Framework with Unified Vibration Signal Representation |BearLLM：基于先验知识增强的轴承健康管理框架与统一振动信号表示 |2025     |Proceedings of the AAAI Conference on Artificial Intelligence 
 62   |The Interpretable Reasoning and Intelligent Decision-Making Based on Event Knowledge Graph With LLMs in Fault Diagnosis Scenarios |基于事件知识图谱与大语言模型的可解释推理与智能决策在故障诊断场景中的应用 |2025     |IEEE Transactions on Instrumentation and Measurement         
-63   |✅面向机械设备通用健康管理的智能运维大模型                    |面向机械设备通用健康管理的智能运维大模型                     |2025     |机械工程学报                                                 
+63   |Research on Foundation Model for General Prognostics and Health Management of Machinery                    |✅面向机械设备通用健康管理的智能运维大模型                     |2025     |机械工程学报                                                 
 64   |✅An outline of Prognostics and health management Large Model: Concepts, Paradigms, and challenges |预测与健康管理大模型概述：概念、范式与挑战                   |2025     |Mechanical Systems and Signal Processing                     
 65   |Channel attention residual transfer learning with LLM fine-tuning for few-shot fault diagnosis in autonomous underwater vehicle propellers |面向自主水下航行器螺旋桨小样本故障诊断的通道注意力残差迁移学习与大型语言模型微调方法 |2025     |Ocean Engineering                                            
 66   |A knowledge-graph enhanced large language model-based fault diagnostic reasoning and maintenance decision support pipeline towards industry 5.0 |面向工业5.0的知识图谱增强型大语言模型故障诊断推理与维护决策支持流程 |2025     |International Journal of Production Research                 
