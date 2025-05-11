@@ -1,5 +1,7 @@
 # Large language model for Prognostics and health management
 
+![Awesome](https://img.shields.io/badge/Awesome-Yes-brightgreen)  ![Last update](https://img.shields.io/badge/Last%20update-20250511-pink)  ![Paper number](https://img.shields.io/badge/Paper%20Number-67-red)
+
 > 用于预测性维护与健康管理的大型语言模型
 
 ## AI解读
@@ -324,3 +326,14 @@
 98   ||||
 99   ||||
 100  ||||
+
+
+
+
+
+------
+
+其他Github项目推荐：
+
+- LLM-based-PHM: https://github.com/CHAOZHAO-1/LLM-based-PHM     [Zhaochao](https://github.com/CHAOZHAO-1) 
+- Awesome-TimeSeries-SpatioTemporal-LM-LLM: https://github.com/qingsongedu/Awesome-TimeSeries-SpatioTemporal-LM-LLM
