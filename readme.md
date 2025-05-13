@@ -219,6 +219,7 @@
 5. **多模态语料库。**
 6. **大模型作为assistant/agent。（辅助之前算法的诊断）**
 7. **Retrieval-Augmented Generation**
+8. **将向量数据转变为标量数据**
 
 ------
 
