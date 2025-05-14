@@ -4,6 +4,12 @@
 
 > 用于预测性维护与健康管理的大型语言模型
 
+
+
+#### **<u>We will continue to update this list with the newest resources. If you find any missed resources (paper/code) or errors, please feel free to open an issue or make a pull request.</u>**
+
+
+
 ## 论文整理
 
 序号 |英文标题                                                     |中文标题                                                     |发表年份 |期刊                                                         |代码                                                         
