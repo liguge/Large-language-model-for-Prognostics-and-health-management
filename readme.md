@@ -1,6 +1,6 @@
 # Large language model for Prognostics and health management
 
-![Awesome](https://img.shields.io/badge/Awesome-Yes-brightgreen)  ![Last update](https://img.shields.io/badge/Last%20update-20250523-pink)  ![Paper number](https://img.shields.io/badge/Paper%20Number-69-red)
+![Awesome](https://img.shields.io/badge/Awesome-Yes-brightgreen)  ![Last update](https://img.shields.io/badge/Last%20update-20250621-pink)  ![Paper number](https://img.shields.io/badge/Paper%20Number-75-red)
 
 > 用于预测性维护与健康管理的大型语言模型
 
@@ -9,6 +9,10 @@
 #### **<u>We will continue to update this list with the newest resources. If you find any missed resources (paper/code) or errors, please feel free to open an issue or make a pull request.</u>**
 
 
+
+## 学习资料
+
+- [【报告】西安交通大学雷亚国教授：高端装备智能运维大模型初探](https://b23.tv/YiiK68F) 
 
 ## 论文整理
 
@@ -83,12 +87,12 @@
 67   |LLM-based framework for bearing fault diagnosis              |基于大语言模型的轴承故障诊断框架                             |2025     |Mechanical Systems and Signal Processing                     |
 68   |A Survey on Applications of Large Language Model-Driven Digital Twins for Intelligent Network Optimization|大语言模型驱动的数字孪生在智能网络优化中的应用研究综述|2025|IEEE Communications Surveys & Tutorials|
 69   |HSE: A plug-and-play module for unified fault diagnosis foundation models|HSE：一个即插即用的模块，用于统一故障诊断基础模型。|2025|Information Fusion|[code](https://github.com/liq22/ISFM_HSE)
-70   |||||
-71   |||||
-72   |||||
-73   |||||
-74   |||||
-75   |||||
+70   |Probing a novel machine tool fault reasoning and maintenance service recommendation approach through data-knowledge empowered LLMs integrated with AR-assisted maintenance guidance|通过数据 - 知识驱动的大型语言模型（LLMs），并结合增强现实（AR）辅助的维护指导，探究一种新颖的机床故障推理与维护服务推荐方法。|2025|Advanced Engineering Informatics|
+71   |Towards Next-Generation Intelligent Maintenance: Collaborative Fusion of Large and Small Models|迈向下一代智能运维：大模型与小模型的协同融合|2025|ArXiv|
+72   |Advancing Industrial Data Augmentation in AIGC Era from Foundations to Frontier Applications|✅AIGC时代工业数据增强：从基础理论到前沿应用|2025|IEEE Transactions on Instrumentation and Measurement|[code](https://github.com/3uchen/IdaLy)
+73   |AIGC-empowered smart manufacturing Prospects and challenges|✅AIGC赋能的智能制造：前景与挑战|2025|Robotics and Computer-Integrated Manufacturing|
+74   |Intelligent Fault Diagnosis for Overhead Lines with Covered Conductors Using Large Language Model|使用大语言模型对带绝缘护套架空线路进行智能故障诊断|2025|Energy Proceedings|
+75   |Towards Next-Generation Intelligent Maintenance Collaborative Fusion of Large and Small Models|✅迈向下一代智能维护：大模型与小模型的协同融合|2025|the 2025 CAA Symposium on Fault Detection, Supervision and Safety for Technical Processes|
 76   |||||
 77   |||||
 78   |||||
