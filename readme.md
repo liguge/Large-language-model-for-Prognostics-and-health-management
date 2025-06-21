@@ -92,7 +92,7 @@
 72   |Advancing Industrial Data Augmentation in AIGC Era from Foundations to Frontier Applications|✅AIGC时代工业数据增强：从基础理论到前沿应用|2025|IEEE Transactions on Instrumentation and Measurement|[code](https://github.com/3uchen/IdaLy)
 73   |AIGC-empowered smart manufacturing Prospects and challenges|✅AIGC赋能的智能制造：前景与挑战|2025|Robotics and Computer-Integrated Manufacturing|
 74   |Intelligent Fault Diagnosis for Overhead Lines with Covered Conductors Using Large Language Model|使用大语言模型对带绝缘护套架空线路进行智能故障诊断|2025|Energy Proceedings|
-75   |Towards Next-Generation Intelligent Maintenance Collaborative Fusion of Large and Small Models|✅迈向下一代智能维护：大模型与小模型的协同融合|2025|the 2025 CAA Symposium on Fault Detection, Supervision and Safety for Technical Processes|
+75   |Towards Next-Generation Intelligent Maintenance Collaborative Fusion of Large and Small Models|✅迈向下一代智能维护：大模型与小模型的协同融合|2025|The 14th CAA Symposium on Fault Detection, Supervision, and Safety for Technical Processes|
 76   |||||
 77   |||||
 78   |||||
