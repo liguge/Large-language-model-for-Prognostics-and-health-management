@@ -1,6 +1,6 @@
 # Large language model for Prognostics and health management
 
-![Awesome](https://img.shields.io/badge/Awesome-Yes-brightgreen)  ![Last update](https://img.shields.io/badge/Last%20update-20250621-pink)
+![Awesome](https://img.shields.io/badge/Awesome-Yes-brightgreen)  ![Last update](https://img.shields.io/badge/Last%20update-20250821-pink)
 
 > 用于预测性维护与健康管理的大型语言模型
 
