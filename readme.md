@@ -111,21 +111,21 @@
 91|Towards Signal Processing In Large Language Models|面向大语言模型的信号处理研究|2025|ArXiv|
 92|RmGPT: A Foundation Model with Generative Pre-trained Transformer for Fault Diagnosis and Prognosis in Rotating Machinery|RmGPT：一种面向旋转机械故障诊断与预测的生成式预训练Transformer基础模型|2025|IEEE Internet of Things Journal|[code](https://github.com/Pandalin98/RmGPT)
 93|ChatCNC: Conversational machine monitoring via large language model and real-time data retrieval augmented generation|ChatCNC：基于大语言模型与实时数据检索增强生成的对话式机床监控系统|2025|Journal of Manufacturing Systems|
-94|||||
-95|||||
-96|||||
-97|||||
-98|||||
-99|||||
-100|||||
-101|||||
-102|||||
-103|||||
-104|||||
-105|||||
-106|||||
-107|||||
-108|||||
+94|ContraText-DETR: Boosting Industrial Scene Text Detection based on Contrastive Learning and Synthetic Low-Contrast Text|ContraText-DETR：基于对比学习与合成低对比度文本的工业场景文本检测增强方法|2025|IEEE Sensors Journal|
+95|T2MFDF: An LLM-Enhanced Multimodal Fault Diagnosis Framework Integrating Time-Series and Textual Data|T2MFDF：一种融合时序数据与文本数据的LLM增强型多模态故障诊断框架|2025|IEEE Transactions on Instrumentation and Measurement|
+96|A Domain Knowledge-Guided Industrial Large Model Framework A Case Study in Battery Health Estimation and Recycling|领域知识引导的工业大模型框架：以电池健康评估与回收为例|2025|IEEE Transactions on Industrial Informatics|
+97|A Survey on Applications of Large Language Model-Driven Digital Twins for Intelligent Network Optimization|大语言模型驱动的数字孪生在智能网络优化中的应用调查|2025|IEEE Communications Surveys & Tutorials|
+98|ChatCNC: Conversational machine monitoring via large language model and real-time data retrieval augmented generation|ChatCNC：通过大型语言模型和实时数据检索增强生成进行对话式机器监控|2025|Journal of Manufacturing Systems|
+99|Fault analysis in additive manufacturing: Identifying causes of three-dimensional printer faults using machine learning and large language models|增材制造中的故障分析：使用机器学习和大型语言模型识别三维打印机故障的原因|2025|Journal of Systems and Software|
+100|How Large AI Model Empowers Time-Series Forecasting for the Operation and Maintenance of Industrial Automation System?|大型AI模型如何赋能工业自动化系统运维的时间序列预测？|2025|IEEE Transactions on Industrial Informatics|
+101|Industrial Maintenance Optimization Based on the Integration of Large Language Models (LLM) and Augmented Reality (AR)|基于大型语言模型（LLM）和增强现实（AR）整合的工业维护优化|2025|Advances in Artificial Intelligence in Manufacturing II|
+102|Leveraging large language models for Human-Machine collaborative troubleshooting of complex industrial equipment faults|利用大型语言模型进行人机协作的复杂工业设备故障排查|2025|Advanced Engineering Informatics|
+103|Leveraging large language models in next generation intelligent manufacturing: Retrospect and prospect|在下一代智能制造中利用大型语言模型：回顾与展望|2025|Journal of Manufacturing Systems|
+104|LLM-MANUF: An integrated framework of Fine-Tuning large language models for intelligent Decision-Making in manufacturing|LLM-MANUF：一个集成框架，用于微调大型语言模型以实现制造中的智能决策|2025|Advanced Engineering Informatics|
+105|LLM-Powered AI Agent Systems and Their Applications in Industry|LLM驱动的AI代理系统及其在工业中的应用|2025|2025 IEEE World AI IoT Congress (AIIoT)|
+106|Motor Fault Diagnosis and Predictive Maintenance Based on a Fine-Tuned Qwen2.5-7B Model|基于精细调整的Qwen2.5-7B模型的电机故障诊断与预测性维护|2025|Processes|
+107|PHM-Bench: A Domain-Specific Benchmarking Framework for Systematic Evaluation of Large Models in Prognostics and Health Management|PHM-Bench：一种用于系统评估大型模型的领域特定基准测试框架，应用于故障预测与健康管理|2025|ArXiV|
+108|Probing a novel machine tool fault reasoning and maintenance service recommendation approach through data-knowledge empowered LLMs integrated with AR-assisted maintenance guidance|通过数据知识赋能的LLMs与AR辅助维护指导相结合，探索一种新颖的机床故障推理和维护服务推荐方法|2025|Advanced Engineering Informatics|
 109|||||
 110|||||
 111|||||
